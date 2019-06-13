@@ -1,0 +1,9 @@
+¡ùThis project is a simple registration system, but it is not simple to write. I searched for a lot of online tutorials to have a comprehensive understanding of this project.
+
+¡ùThe interface in the terminal is just the same as the example executable, but I cannot make the layout of the html files the same as it. In fact I had great trouble dealing with the html staff. It wasn't mentioned in class.
+
+¡ùThe project was seperated into 28 files, 4091 lines altogether. I assigned every menu seperate files, which has made the program easier to modify. The input checker was seperated from the main body of the program. I turned to a senior schoolmate of mine for help to do this part and learnt much through the attempt to implememt it.
+
+¡ùThe most difficult part of this project for me is how to write the hashmap, which will be covered in the final exam. I think I have to start reviewing now.
+
+¡ùDuring the writing I discussed the project with many friends including Lei Zhao, Fang Haoyang, and Wang Yuan. Some of their ideas were really helpful to me.
